@@ -14,7 +14,7 @@
 
 ## 🚀 О себе
 
-🌟 **Senior DevOps Engineer & Full-Stack Developer** специализирующийся на **Enterprise SaaS**, **облачных технологиях**, **AI/ML решениях** и **бизнес-автоматизации**.
+🌟 **Senior DevOps Engineer &amp; Full-Stack Developer** специализирующийся на **Enterprise SaaS**, **облачных технологиях**, **AI/ML решениях** и **бизнес-автоматизации**.
 
 🌏 Живу на **Бали**, создаю **high-value** технологии для **российского** и **международного** рынков. 
 
@@ -28,7 +28,7 @@
 <tr>
 <td valign="top" width="33%">
 
-### 🏢 Enterprise & SaaS
+### 🏢 Enterprise &amp; SaaS
 - 💰 **Production-ready SaaS**  
 - 🚀 **Multi-tenancy платформы**
 - 📊 **CRM Integrations**
@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="33%">
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud &amp; DevOps
 - 🔒 **VPN Technologies** (WireGuard)  
 - ☁️ **Oracle Cloud** Infrastructure
 - 🌐 **Network Engineering**
@@ -48,10 +48,10 @@
 </td>
 <td valign="top" width="33%">
 
-### 🤖 AI & Machine Learning
+### 🤖 AI &amp; Machine Learning
 - 🧠 **AI Agents Development**
 - 📈 **Marketing Intelligence** 
-- 🗣️ **NLP & Voice Processing**
+- 🗣️ **NLP &amp; Voice Processing**
 - 🤖 **Telegram Bot Ecosystem**
 - 💬 **Multilingual AI Solutions**
 
@@ -126,7 +126,7 @@
 
 ---
 
-### 🤖 **AI & Machine Learning:**
+### 🤖 **AI &amp; Machine Learning:**
 
 <table>
 <tr>
@@ -187,7 +187,7 @@
 
 ---
 
-### 🔒 **VPN & Security:**
+### 🔒 **VPN &amp; Security:**
 
 <table>
 <tr>
@@ -281,7 +281,7 @@
 
 ---
 
-### 🔧 **Dev Tools & Utilities:**
+### 🔧 **Dev Tools &amp; Utilities:**
 
 <table>
 <tr>
@@ -344,7 +344,7 @@
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Languages &amp; Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -353,7 +353,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud &amp; DevOps
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -361,7 +361,7 @@
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### 🤖 AI & Data
+### 🤖 AI &amp; Data
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -415,12 +415,12 @@ class SergD:
         self.specialization = [
             "💰 Enterprise SaaS Development",
             "☁️ Cloud Infrastructure (Oracle)",
-            "🔒 VPN & Network Security", 
+            "🔒 VPN &amp; Network Security", 
             "🤖 AI/ML Solutions",
             "📱 Telegram Ecosystem",
             "💼 Business Automation",
             "🏠 Real Estate Tech",
-            "📊 CRM & Lead Generation",
+            "📊 CRM &amp; Lead Generation",
             "🌐 Cross-cultural Development"
         ]
         self.total_repos = 45
@@ -430,7 +430,7 @@ class SergD:
         return [
             "Enterprise Telegram solutions with anti-ban",
             "Real Estate automation + Oracle Cloud",
-            "Lead Generation & CRM integrations",
+            "Lead Generation &amp; CRM integrations",
             "AI-powered business intelligence"
         ]
         
@@ -459,12 +459,12 @@ class SergD:
 
 | Категория | Публичные | Приватные | Всего |
 |:---------:|:---------:|:---------:|:-----:|
-| 🏢 Enterprise & SaaS | 0 | 8 | **8** |
-| 🤖 AI & ML | 4 | 5 | **9** |
-| 🔒 VPN & Security | 2 | 3 | **5** |
+| 🏢 Enterprise &amp; SaaS | 0 | 8 | **8** |
+| 🤖 AI &amp; ML | 4 | 5 | **9** |
+| 🔒 VPN &amp; Security | 2 | 3 | **5** |
 | 💼 Business Automation | 5 | 6 | **11** |
 | 🔧 Dev Tools | 5 | 0 | **5** |
-| 📊 Analytics & SEO | 4 | 3 | **7** |
+| 📊 Analytics &amp; SEO | 4 | 3 | **7** |
 | **ИТОГО** | **20** | **25** | **45** |
 
 </div>
@@ -479,7 +479,7 @@ class SergD:
 
 🏢 **Enterprise SaaS Development** • 💰 **Lead Generation Systems** • 🏠 **Real Estate Automation**
 
-🔒 **DevOps & Security** • 🤖 **AI/ML Development** • 📊 **CRM Integrations**
+🔒 **DevOps &amp; Security** • 🤖 **AI/ML Development** • 📊 **CRM Integrations**
 
 ☁️ **Oracle Cloud Solutions** • 🌐 **International Localization** • 📱 **Telegram Enterprise**
 
