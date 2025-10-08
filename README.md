@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SergD%20-%20DevOps%20%26%20AI%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Enterprise%20Solutions%20from%20Bali&descAlignY=55&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SergD%20-%20DevOps%20and%20AI%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Enterprise%20Solutions%20from%20Bali&descAlignY=55&descSize=16" alt="Header" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@sergei__dyshkant-blue?style=for-the-badge&logo=telegram)](https://t.me/sergei_dyshkant)
 [![Location](https://img.shields.io/badge/📍%20Location-Bali,%20Indonesia-green?style=for-the-badge)](https://github.com/wsgp2)
@@ -495,7 +495,7 @@ class SergD:
 
 ### 🌟 *"45 repositories • 25 private commercial projects • Production-ready SaaS"*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 **SergD © 2025** • Made with ❤️ from Bali 🏝️
 
