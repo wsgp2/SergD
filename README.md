@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00FFFF,100:FF00FF&height=200&section=header&text=SergD%20-%20DevOps%20and%20AI%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Enterprise%20Solutions%20from%20Bali&descAlignY=55&descSize=16&fontColor=00FFFF&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00FFFF,100:FF00FF&height=200&section=header&text=SergD%20-%20DevOps%20and%20AI%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Enterprise%20Solutions%20from%20Bali&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" alt="Header" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@sergei__dyshkant-blue?style=for-the-badge&logo=telegram)](https://t.me/sergei_dyshkant)
 [![Location](https://img.shields.io/badge/📍%20Location-Bali,%20Indonesia-green?style=for-the-badge)](https://github.com/wsgp2)
